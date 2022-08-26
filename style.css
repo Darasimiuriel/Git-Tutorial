@@ -1,13 +1,12 @@
 body {
-    text-align: center;
-    background: black;
+  text-align: center;
+  background: black;
 }
-
 h1 {
-font-style: italic;
-color: orange;
+  font-style: italic;
+  color: orange;
 }
 p {
-    font-weight: bold;
-    color: blue;
+  font-weight: bold;
+  color: blue;
 }
